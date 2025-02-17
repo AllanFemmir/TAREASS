@@ -1,0 +1,41 @@
+Ejercicio #2
+
+1). Sacar a pasear a un perro
+	
+	-Buscar la correa del perro
+	-Buscar al perro
+	-Ponerle la correa al perro
+	-Abrir la puerta
+	-Sacar al perro de la casa 
+	-Salir de la casa
+	-Cerrar la puerta
+	-Empezar a caminar 
+
+2).Preparar un licuado de frutas tropicales
+	-Abrir la puerta del refrigerador
+	-Sacar una piña,dos mangos,tres bananos,un bote de yogurt
+	-cerrar la puerta del refrigerador
+	-Pelar la piña 
+	-Cortar la piña en cuadritos
+	-Colocar los cuadritos en un bowl
+	-Pelar los mangos
+	-Cortar los mangos en cuadritos
+	-Poner los cuadritos en un bowl
+	-Pelamos los bananos
+	-Cortamos en rodajas los bananos
+	-Colocamos en un bowl las rodajas
+	-buscamos la licuadora
+	-conectamos la licuadora
+	-Abrimos la tapadera de la licuadora
+	-Abrimos el envase del yogurt
+	-Agregamos el yogurt a la licuadora 
+	-Agregamos la piña 
+	-Agregamos el mango
+	-Agregamos los bananos
+	-Le ponemos la tapadera a la licuadora
+	-Encendemos la licuadora durante dos minutos
+	-Apagamos la licuadora
+	-Buscamos un vaso
+	-Retiramos la tapadera de la licuadora
+	-Servimos el licuado en el vaso 
+	-Disfrutamos del licuado
